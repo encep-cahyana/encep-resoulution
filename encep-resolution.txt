@@ -1,0 +1,4 @@
+encep resolusi
+- memahami penggunaan git dan github
+- seperti repository commit hash brach merge push pull dll
+- mampu mengeporasikan git dan github
